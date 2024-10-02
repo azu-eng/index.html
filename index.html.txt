@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Slinky - Tienda de Mascotas</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        main {
+            padding: 20px;
+        }
+        h1 {
+            font-size: 2.5em;
+        }
+        p {
+            line-height: 1.6;
+            font-size: 1.2em;
+        }
+        .cta {
+            background-color: #4CAF50;
+            color: white;
+            padding: 15px 25px;
+            text-decoration: none;
+            font-size: 1.2em;
+            border-radius: 5px;
+            display: inline-block;
+            margin-top: 20px;
+        }
+        .cta:hover {
+            background-color: #45a049;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #333;
+            color: white;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>¡Bienvenidos a Slinky!</h1>
+    </header>
+    <main>
+        <p>En <strong>Slinky</strong>, sabemos que tu mascota es parte de tu familia, y por eso estamos aquí para ofrecerte lo mejor. Desde alimentos premium hasta juguetes y accesorios que harán su vida más divertida y saludable, ¡tenemos todo lo que necesitas!</p>
+        <p>Descubre una experiencia única de compra, donde el bienestar de tu mascota es nuestra prioridad. Nuestro equipo se compromete a brindarte productos de calidad para que tu mejor amigo viva feliz y lleno de energía.</p>
+        <a href="#productos" class="cta">¡Explora nuestros productos!</a>
+    </main>
+    <footer>
+        <p>&copy; 2024 Slinky. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
