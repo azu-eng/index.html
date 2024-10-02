@@ -28,19 +28,6 @@
             line-height: 1.6;
             font-size: 1.2em;
         }
-        .cta {
-            background-color: #4CAF50;
-            color: white;
-            padding: 15px 25px;
-            text-decoration: none;
-            font-size: 1.2em;
-            border-radius: 5px;
-            display: inline-block;
-            margin-top: 20px;
-        }
-        .cta:hover {
-            background-color: #45a049;
-        }
         footer {
             text-align: center;
             padding: 10px;
@@ -54,12 +41,11 @@
 </head>
 <body>
     <header>
-        <h1>¡Bienvenidos a Slinky!</h1>
+        <h1>Bienvenidos a Slinky</h1>
     </header>
     <main>
-        <p>En <strong>Slinky</strong>, sabemos que tu mascota es parte de tu familia, y por eso estamos aquí para ofrecerte lo mejor. Desde alimentos premium hasta juguetes y accesorios que harán su vida más divertida y saludable, ¡tenemos todo lo que necesitas!</p>
-        <p>Descubre una experiencia única de compra, donde el bienestar de tu mascota es nuestra prioridad. Nuestro equipo se compromete a brindarte productos de calidad para que tu mejor amigo viva feliz y lleno de energía.</p>
-        <a href="#productos" class="cta">¡Explora nuestros productos!</a>
+        <p>En nuestra pequeña tienda, nos dedicamos a satisfacer todas las necesidades de tus queridos amigos peludos. Aquí encontrarás todo lo necesario para su cuidado, alimentación y diversión.</p>
+        <p>Nuestro compromiso es garantizar que tus mascotas tengan una vida sana y equilibrada. Te invitamos a recorrer nuestra página web y descubrir todo lo que tenemos para ofrecer. ¡Mima a tus animalitos como se merecen!</p>
     </main>
     <footer>
         <p>&copy; 2024 Slinky. Todos los derechos reservados.</p>
